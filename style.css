@@ -1,0 +1,24 @@
+body {
+  background-color: green;
+}
+
+.card {
+  display: flex;
+  font-size: 100px;
+  flex-direction: column;
+  width: 18%;
+  height: 500px;
+  position: relative;
+  padding: auto;
+  margin: auto;
+  background-color: white;
+  border: black solid 1px;
+  border-radius: 5px;
+}
+
+#superior, #centro, #inferior {
+    font-size: 65px;
+    padding: auto;
+    margin: auto;
+
+}
